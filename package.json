@@ -1,11 +1,13 @@
 {
   "name": "SuperMario64",
-  "version": "1.0.2",
-  "description": "This is the official repository.",
+  "version": "1.0.3",
+  "description": "A 'Super Mario 64' rom-development-kit/api.",
   "main": "SuperMario64.js",
-  "author": "SpiceyWolf, MelonSpeedruns",
+  "author": "SpiceyWolf, MelonSpeedsuns",
   "credits": "Cheezepin",
   "license": "GPL3",
+  "core": "SuperMario64",
+  "updateUrl": "https://raw.githubusercontent.com/Modloader-Lost-Mods/Core-SuperMario64/master/update.json",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
